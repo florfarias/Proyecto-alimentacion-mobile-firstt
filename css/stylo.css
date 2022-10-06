@@ -5,15 +5,17 @@
 }
 
 html  {
-    max-width: 100%;
+    
     /*overflow-x: hidden;*/
-    height: 100vh;
+    
     /*min-width: 20em; /* es 320px en em*/
     font-size: 0.8em;/* 12 px en em*/
     font-family: 'Franklin Gothic Medium';
 }
 
 body {
+    width: 100%;
+    max-width: inherit;
     min-height: 100vh;
     display: grid;
     grid-template-areas:
