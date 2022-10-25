@@ -343,12 +343,9 @@ input[id="3"]:checked~.pagination .pagination-item[for="3"] {
     display: flex;
     grid-area: footer;
     flex-direction: row;
-<<<<<<< HEAD
     max-width: 100%;
-=======
     width: 100%;
 
->>>>>>> c603e026e5f298968403b8bb6e44f4c57cb180ac
     background-color: #66CC8F;
     flex-wrap: nowrap;
     justify-content: space-between;
